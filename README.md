@@ -65,7 +65,7 @@ Train the selected model using the training dataset. Evaluate the model's perfor
 
 ## Conclusion
 
-The model's RMSE score is 14.8, indicating the accuracy of flight ticket price predictions.
+The model's RMSE score is 14.19, indicating the accuracy of flight ticket price predictions.
 
 ---
 
